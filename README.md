@@ -32,8 +32,8 @@ Follow these steps to set up and run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Sakshamsinha23/FastApi-Crud-2.git
-cd FastApi-Crud-2
+[git clone https://github.com/Sakshamsinha23/FastApi-Crud-2.git
+cd FastApi-Crud-2](https://github.com/Sakshamsinha23/FastApi-Crud.git)
 ```
 
 ---
