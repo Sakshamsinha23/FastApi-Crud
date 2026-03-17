@@ -126,18 +126,4 @@ FastApi-Crud-2/
 
 ---
 
-## 🧠 Interview Tip (Gold 🔥)
-
-If asked: *“Explain your project architecture”*, say:
-
-* Separation of concerns:
-
-  * **Routes → main.py**
-  * **Business logic → crud.py**
-  * **Schema validation → schemas.py**
-  * **Database → models.py + database.py**
-* Used FastAPI for **high performance APIs**
-* Used SQLAlchemy ORM for **database abstraction**
-
----
 
