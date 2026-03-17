@@ -29,13 +29,14 @@ Follow these steps to set up and run the project locally:
 
 ---
 
-### 1️⃣ Clone the Repository
-
+# Clone the repository
+```bash
 git clone https://github.com/Sakshamsinha23/FastApi-Crud.git
-
-### Navigate into the project directory
-cd FastApi-Cru
-
+```
+# Navigate into the project directory
+```bash
+cd FastApi-Crud
+```
 ---
 
 ### 2️⃣ Create Virtual Environment
