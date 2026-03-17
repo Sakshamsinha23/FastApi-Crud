@@ -1,7 +1,3 @@
-Here’s your **clean, professional, recruiter-impressing README** ✨
-
----
-
 # 🚀 FastAPI CRUD App – Employee Management
 
 A simple and scalable **CRUD (Create, Read, Update, Delete)** application built using **FastAPI** to manage employee records with an SQLite database.
